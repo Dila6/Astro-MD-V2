@@ -1,5 +1,5 @@
 {
- "name": "AstroMD",
+ "name": "ZimbaMD",
  "description": "Multi Device Whatsapp Bot",
  "version": "1.0.0",
  "main": "index.js",
@@ -20,7 +20,7 @@
     "Wa-Bot-MD",
     "multi-device"
  ],
- "author": "vihanga-yt",
+ "author": "Dilnethu",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
