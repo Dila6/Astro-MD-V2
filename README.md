@@ -1,4 +1,4 @@
-# ASTRO-MD
+# ZIMBA-MD
 
    
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
@@ -10,7 +10,7 @@
 
 ---------------------------------   
 
- ###  Developer : Vihanga-YT
+ ###  Developer : Dilnethu
 
 ## Thanks To
 ##### ◉[@adiwajshing](https://github.com/adiwajshing/) for coded.
